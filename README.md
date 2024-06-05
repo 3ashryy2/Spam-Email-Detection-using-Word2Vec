@@ -1,10 +1,3 @@
-# Spam-Email-Detection-using-Word2Vec
- Spam Email Detection using Word2Vec embeddings and SVM:
-
-
-
-
-
 # Email Spam Detection with Word2Vec and SVM
 
 This project aims to build a machine learning model to classify emails into spam and non-spam categories using Word2Vec embeddings and a Support Vector Machine (SVM) classifier.
